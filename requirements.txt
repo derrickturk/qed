@@ -1,0 +1,4 @@
+maturin==0.8.2
+numpy @ file:///C:/Users/Derrick/Downloads/numpy-1.19.1%2Bmkl-cp38-cp38-win_amd64.whl
+scipy==1.5.2
+toml==0.10.1
